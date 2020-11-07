@@ -4,3 +4,7 @@ const printName = ()=>{
 
 
 printName()
+
+const myfunction = function(){
+    console.log('this is an es5 function')
+}
